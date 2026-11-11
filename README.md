@@ -59,7 +59,7 @@ Install ADB and ensure it is accessible from your system. The application also p
 
 **5. Launch the application**
 
-Open the project folder and run `mobile_security_inspector.py` using Python 3.10 or later.
+Open the project folder and run `Android Security Test.py` using Python 3.10 or later.
 
 **6. Start assessment**
 
